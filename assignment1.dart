@@ -9,8 +9,9 @@ void main() {
     print(item);
   }
 
-  print("***** Set B *****S");
+  print("***** Set B *****");
   for (int item in setB) {
     print(item);
   }
 }
+
